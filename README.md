@@ -2,6 +2,8 @@
 
 This project segments customers based on purchasing behavior using RFM (Recency, Frequency, Monetary) analysis and KMeans clustering.
 
+Link of StreamLit Cloud App - https://customer-segmentation-t2jj66htbbnqbymonmbwle.streamlit.app/
+
 ## 🚀 Run Locally
 ```bash
 pip install -r requirements.txt
